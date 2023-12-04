@@ -9,5 +9,5 @@
 
 
 ## Method
-<img src=figure/main.png>
+<img src=figure/pipeline.png>
 
