@@ -17,4 +17,4 @@
 
 ## Data
 
-For our data, we use [OMMO](https://ommo.luchongshan.com/). Full information about the dataset is provided on the GitHub page.
+For our data, we use [OMMO](https://ommo.luchongshan.com/). Full information about the dataset is provided on the project page.
